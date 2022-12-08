@@ -1,1 +1,1 @@
-Console.WriteLine("Hello! I`m Alex and I love programming.");
+Console.WriteLine(" I love programming.");
